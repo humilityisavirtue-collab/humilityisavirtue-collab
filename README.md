@@ -10,7 +10,9 @@ I build AI infrastructure that makes models cheaper, faster, and harder to break
 
 **[K-104](https://github.com/humilityisavirtue-collab/k-104)** — A coordinate system for meaning. 4 suits, 13 ranks, 2 polarities, 104 rooms. The addressing layer everything else runs on.
 
-**[k-routing](https://github.com/humilityisavirtue-collab/k-routing)** — K-104 semantic routing in practice. If you only read one repo, read this one.
+**[k-routing](https://github.com/humilityisavirtue-collab/k-routing)** — K-104 semantic routing in practice.
+
+**[agent-doctrine](https://github.com/humilityisavirtue-collab/agent-doctrine)** — Operating laws for AI agents that have to be trusted. Every law carries the evidence that would prove it wrong. **Clone it and run one file** to watch a passing safety check turn out to be incapable of failing. If you only read one repo, read this one.
 
 ---
 
