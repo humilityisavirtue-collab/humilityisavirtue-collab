@@ -29,6 +29,8 @@ survived because an instrument caught them first.
 
 **[agent-doctrine](https://github.com/humilityisavirtue-collab/agent-doctrine)** — Operating laws for AI agents that have to be trusted. Every law carries the evidence that would prove it wrong. **Clone it and run one file** to watch a passing safety check turn out to be incapable of failing. If you only read one repo, read this one.
 
+**[research-journal](https://github.com/humilityisavirtue-collab/research-journal)** — A working lab journal: results, negative results, and the falsifiers that earned them. Every claim ships with its claims ledger.
+
 ---
 
 ## The Stack
